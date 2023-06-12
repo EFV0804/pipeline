@@ -1,5 +1,5 @@
 # Pipeline
-A colletion of my pipeline work and contributions
+A collection of my pipeline work and contributions
 
 ## Houdini
 - [Tool to replace Houdini dependencies before job submissions](https://github.com/EFV0804/HoudiniTool_ReplaceDependencies)
